@@ -7,7 +7,7 @@ const projects = [
     description: 'ML-based system to predict insurance claim probability and assist decision making with data-driven insights.',
     tech: ['Python', 'Machine Learning', 'Streamlit', 'Pandas', 'NumPy'],
     github: 'https://github.com/Zilprajapati',
-    demo: 'https://github.com/Zilprajapati',
+    demo: 'https://smarthealthpolicy.streamlit.app/',
   },
   {
     title: 'Grocery Store Management System',
